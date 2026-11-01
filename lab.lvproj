@@ -12,8 +12,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="hr_data_structure.ctl" Type="VI" URL="../hr_data_structure.ctl"/>
 		<Item Name="lab1.vi" Type="VI" URL="../lab1.vi"/>
 		<Item Name="lab2.vi" Type="VI" URL="../lab2.vi"/>
+		<Item Name="lab3.vi" Type="VI" URL="../lab3.vi"/>
+		<Item Name="Lab_2_Calculate_HR_Zones.vi" Type="VI" URL="../Lab_2_Calculate_HR_Zones.vi"/>
+		<Item Name="raw_data.ctl" Type="VI" URL="../raw_data.ctl"/>
+		<Item Name="Read_tcx_file.vi" Type="VI" URL="../Read_tcx_file.vi"/>
+		<Item Name="runners_data.ctl" Type="VI" URL="../runners_data.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
